@@ -28,7 +28,7 @@
       width: 0;
       visibility: hidden;
       position: absolute;
-      &:checked + label {
+      &:checked + label{
         background: $green;
       }
       &:checked + label:after {

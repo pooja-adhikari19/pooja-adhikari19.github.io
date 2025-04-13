@@ -1,18 +1,18 @@
 {
-  "name": "brittanychiang.com",
+  "name": "pooja-adhikari19.github.io",
   "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "description": "Software engineer designing thoughtful backend systems that quietly power beautiful user experiences.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/bchiang7.github.io"
+    "url": "https://github.com/pooja-adhikari19/pooja-adhikari19.github.io"
   },
-  "homepage": "https://github.com/bchiang7/bchiang7.github.io",
+  "homepage": "https://github.com/pooja-adhikari19/pooja-adhikari19.github.io",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
     "build": "gulp build"
   },
-  "author": "Brittany Chiang",
+  "author": "Pooja Adhikari",
   "license": "ISC",
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
@@ -22,7 +22,8 @@
     "gulp-clean-css": "^4.3.0",
     "gulp-eslint": "^6.0.0",
     "gulp-imagemin": "6.0.0",
-    "gulp-sass": "^4.1.0",
-    "gulp-uglify": "3.0.2"
+    "gulp-sass": "^6.0.1",
+    "gulp-uglify": "3.0.2",
+    "sass": "^1.86.3"
   }
 }
